@@ -1,7 +1,7 @@
 # Atari 2600 Pong with DQN
 
 ## About
-This work is about creating a DQN agent, able to learn and well perform in the Atari2600 Pong, using Reinfrocement Learning and Deep Q-Network. The code is developed on a jupyter notebook in python while the game environment is provided by OpenAi called "OpenAi Gym".\
+This work is about creating a DQN agent, able to learn and well perform in the Atari2600 Pong, using Reinforcement Learning and Deep Q-Network. The code is developed on a jupyter notebook in python while the game environment is provided by OpenAi called "OpenAi Gym".\
 The repository also contains a brief report of the work.
 
 **The code might contain errors!!**
